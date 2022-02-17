@@ -23,3 +23,15 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #end Hover
+
+
+#begin Animate
+(https://github.com/animate-css/animate.css)
+
+animate.css - https://animate.style/
+Version - 4.1.1
+Licensed under the Hippocratic License 2.1 - http://firstdonoharm.dev
+animation-delay: calc(var(--delay)/10);
+Copyright (c) 2022 Animate.css
+
+#end Animate
